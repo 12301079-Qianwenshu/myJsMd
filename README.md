@@ -1,1 +1,3 @@
-# MyJsReadme
+# MyReadMe
+用来记录开发过程中一些自己容易忘记的知识点~
+
