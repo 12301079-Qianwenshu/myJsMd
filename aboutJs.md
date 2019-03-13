@@ -17,7 +17,7 @@
 - export和import的复合写法
   - 如果在一个模块之中，先输入后输出同一个模块，import语句可以与export语句写在一起
 ## 关于react
-### 声明周期
+### 生命周期
 - componentWillMount()
 - componentDidMount()
 - componentWillReceiveProps(nextProps)
