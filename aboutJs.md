@@ -25,3 +25,9 @@
 - componentWillUpdate(nextProps,nextState)
 - componentDidUpdate(preProps,preState)
 - componentWillUnmount()
+## 关于webpack
+style-loader是将css-loader打包好的css代码以`<style>`标签的形式插入到html文件中
+通过 webpack 配置项中的 use 指 定的 loader 是按照索引反向执行的
+## 关于nodejs
+- 连接路径：path.join([path1][, path2][, ...])
+- 路径解析：path.resolve([from ...], to)，注意最后一个参数的传入，要是有.之类的符号，则是串联路径
